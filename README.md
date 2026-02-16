@@ -20,6 +20,17 @@
     *   *Falsos Positivos (25 años predecido como 11)* → **Cliente frustrado y venta perdida.**
 *   **🚀 Pensamiento Estratégico y Hoja de Ruta:** Propuse un plan por fases para V2.0, cambiando de regresión a clasificación binaria, que es lo que cualquier líder de producto querría ver.
 
+## 🎯 Lo que este proyecto evidencia sobre mi perfil
+
+*(Cada punto está respaldado directamente en las secciones siguientes)*
+
+| Habilidad | Evidencia en el proyecto | Dónde verlo |
+| :--- | :--- | :--- |
+| **Visión de negocio aplicada a ML** | Definí métricas de éxito como "Recall >99% para evitar multas", no solo "MAE". | Sección "Problema de Negocio" |
+| **Análisis crítico y honestidad técnica** | Identifiqué que el modelo V1.0 (MAE 13.57) era inútil para producción y lo comuniqué claramente. | Sección "Resultados" |
+| **Comunicación de riesgo técnico** | Traduje errores del modelo en riesgos comerciales: falsos negativos = multas, falsos positivos = ventas perdidas. | Sección "Hallazgos Críticos" |
+| **Pensamiento estratégico y hoja de ruta** | Propuse una migración a clasificación binaria con función de pérdida asimétrica, en lugar de forzar el modelo actual. | Sección "Recomendación Estratégica" |
+
 ---
 
 ## ⚙️ Detalles Técnicos Clave
