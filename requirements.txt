@@ -1,0 +1,18 @@
+# Age Verification CV System - Dependencias Esenciales
+# Core 80/20: Librerías mínimas para ejecutar análisis
+
+# Data Processing & Analysis
+pandas==1.5.3
+numpy==1.24.3
+
+# Deep Learning & Computer Vision
+tensorflow==2.13.0
+keras==2.13.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Utilities
+jupyter==1.0.0
+python-dotenv==1.0.0
